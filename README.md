@@ -6,4 +6,4 @@
 - 👨‍💻 Working on something exciting
 - 💬 How to reach me:
   - 📧 [Email](mailto:thong.dang0903@gmail.com)
-  - &nbsp;![Linkedin](https://i.stack.imgur.com/gVE0j.png) [&nbsp;LinkedIn](https://www.linkedin.com/in/minh-thong-dang-856b601a3/)
+  - &nbsp;![Linkedin](https://i.stack.imgur.com/gVE0j.png) &nbsp;[LinkedIn](https://www.linkedin.com/in/minh-thong-dang-856b601a3/)
