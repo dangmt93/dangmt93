@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there,+I'm+Thomas&color=2336BCF7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there,+I'm+Thomas)](https://git.io/typing-svg)
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 
