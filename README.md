@@ -1,5 +1,5 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a><img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi+there,+I'm+Thomas;IT+graduate+from+UTAS&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+<a><img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi+there,+I%27m+Thomas;IT+graduate+from+UTAS&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 
 - 🔍 I'm an aspiring Full-stack Web Developer, specialising in the MERN stack. 
 - 🌱 I’m currently learning NextJS, TypeScript, and TailwindCSS
